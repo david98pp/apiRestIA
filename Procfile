@@ -1,0 +1,1 @@
+web: gunicorn apiRestIA.wsgi --log-file -
